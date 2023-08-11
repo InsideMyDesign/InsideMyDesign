@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Dmitriy</h2>
+<h2 align="center">Hi 👋, I'm Dmitriy Pankratov</h2>
 <h3 align="center">A design traveller and frontend developer from Moscow</h3>
 
 - 🔭 I’m currently working on **everyday work tasks**
